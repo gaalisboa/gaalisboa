@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Gabriel. You can call me Biel or whatever. I'm 19 and a junior back-end developer with C#
-- 👀 I’m interested in working at any company/team that thinks that I can do something for them (or not 😅) to help me grow even more my programming skills and get some professional experience
-- 🌱 I’m currently sharping my C# ASP.NET MVC/API development (.NET 6) and JavaScript knowledge.
+- 👋 Hi, I’m Gabriel, I'm 19 and a junior back-end developer with C# in .NET
+- 👀 I’m interested in working at a good company/team that can help me to help grow my career as a Software Developer, improve my programming skills and get some professional experience
+- 🌱 I’m currently Studying C# in .NET 6 (APIs and ASP.NET web apps) and front-end (JavaScript, HTML and CSS).
