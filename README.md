@@ -16,7 +16,6 @@
   <a href = "mailto:gaahlisboa@gmail.com"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank"></a>
 </div>
 
-https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 ### Main skills:
 ![CSharp](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![DotNet](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=purple)&nbsp;
