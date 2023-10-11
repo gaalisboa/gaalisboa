@@ -3,7 +3,7 @@
 <!---[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gaalisboa)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <div align="center">  
-  <img width="40%" height="300px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gaalisboa&theme=dracula" alt="Gabriel de Paula Top Languages" /> 
+  <img width="40%" height="300px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gaalisboa&theme=dark" alt="Gabriel de Paula Top Languages" /> 
 </div>
 
 ### Main skills:
