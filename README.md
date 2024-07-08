@@ -7,7 +7,7 @@
 </div>
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,unity)](https://skillicons.dev)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,unity,python)](https://skillicons.dev)&nbsp;
 
 ### Contact me:
 <div>
