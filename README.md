@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Gabriel
 
-<!--
-**gaalisboa/gaalisboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on Application Security
+and Cloud Security.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build software and security-focused systems,
+with experience in C#, Unity, Firebase and web technologies.
+
+Currently focusing on:
+
+- Python
+- Backend Engineering
+- AWS
+- Application Security
+- DevSecOps
+- Cloud Security
+
+## Featured Projects
+
+SOON ...
+
+## Technologies
+
+SOON ...
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/gabrieldpsdev/)
